@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-fallschurch",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "City of Falls Church GIS — Falls Church, Virginia open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1d1cc68b0ed8db65dd78b2d21312e37de524286f9ce4d3c49a08b764312a18f4",
-    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
+    "sourceHash": "v1-f6c56524087add6be2653c9dfe12584b3770297217de89c7d8307b141df3b6d5",
+    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
   }
 }
