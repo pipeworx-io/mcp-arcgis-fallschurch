@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-fallschurch",
   "title": "Arcgis Fallschurch",
   "description": "City of Falls Church GIS — Falls Church, Virginia open geospatial data (ArcGIS).",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-fallschurch",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-fallschurch",
